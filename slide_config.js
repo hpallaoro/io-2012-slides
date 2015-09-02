@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'BSE Salud<br>Up To Two Lines',
+    title: 'BSE Salud',
     subtitle: 'Consultoría Tecnológica en Salud',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
@@ -18,11 +18,11 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title<br>Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
+    name: 'Hugo A. Pallaoro',
+    company: 'Responsable IT<br>BSE Salud',
+    gplus: 'https://ar.linkedin.com/in/hpallaoro',
+    twitter: '@hpallaoro',
+    www: 'http://www.bsesalud.com',
     github: 'http://github.com/you'
   }/*, {
     name: 'Second Name',
